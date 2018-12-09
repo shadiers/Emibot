@@ -20,3 +20,9 @@ https://arduino.stackexchange.com/questions/34775/arduino-nano-not-visible-in-se
 https://www.instructables.com/id/Control-your-motors-with-L293D-and-Arduino/
 
 ![L293D schema with motors](/images/l293d_schema.jpg)
+
+2. Arduino nano pinout
+
+https://www.luisllamas.es/esquema-de-patillaje-de-arduino-pinout/
+
+![Arduino nano pinout](/images/aduino-pinout-nano.jpg)
