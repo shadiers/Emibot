@@ -25,4 +25,4 @@ https://www.instructables.com/id/Control-your-motors-with-L293D-and-Arduino/
 
 https://www.luisllamas.es/esquema-de-patillaje-de-arduino-pinout/
 
-![Arduino nano pinout](/images/aduino-pinout-nano.jpg)
+![Arduino nano pinout](/images/aduino-pinout-nano.png)
